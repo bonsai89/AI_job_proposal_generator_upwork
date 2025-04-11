@@ -1,0 +1,7 @@
+sentencepiece==0.1.97
+transformers==4.25.1
+openai==0.27.1
+protobuf==3.20.0
+openai==0.27.1
+gradio==3.23.0
+torch==1.13.1
