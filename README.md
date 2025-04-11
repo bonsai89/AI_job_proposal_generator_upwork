@@ -1,7 +1,3 @@
-Below is an updated `README.md` pitch for your AI-powered Upwork proposal generator, incorporating the additional information that it runs fully free on Hugging Face and including the provided keywords for your custom AI automation services. The pitch maintains a formal tone, aligns with your response style preferences, and is crafted to attract Upwork freelancers while clearly presenting your bespoke services.
-
----
-
 # AI-Powered Upwork Proposal Generator
 
 ## Elevate Your Freelancing Success on Upwork – Completely Free
